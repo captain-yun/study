@@ -334,7 +334,7 @@ solution()
 
 
 ## 10. 풍선 터뜨리기
->**Code** [📄 BoJ 2346번]
+>**Code** [📄 BoJ 2346번](https://www.acmicpc.net/source/29329498)
 ```python
 from collections import deque
 
