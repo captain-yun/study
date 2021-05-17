@@ -190,10 +190,11 @@ for _ in range(n):
             print(deq[-1])
         else:
             print(-1)
+
 ```
 
 ## 06. 스택 수열
->**Code** [📄]
+>**Code** [📄 BoJ 1874번](https://www.acmicpc.net/source/29290296)
 ```python
 import sys
 
@@ -220,14 +221,9 @@ for _ in range(n):
 for i in answer:
     print(i)
 ```
-> How long did it take?
-* More than 2 hours
 > How solved?
 * Using stack
 * At first glance, I thought it's gonna be solved with a specifically made the algorithm of how to push and pop the values.
-* And here is my trial.
-> What have you learned from this?
-* Solve 
 > Refered Site
 * https://assaeunji.github.io/python/2020-05-04-bj1874/
 
@@ -457,3 +453,14 @@ def solution():
   
 solution()
 ```
+> How solved?
+> 
+
+## 12. 괄호 제거
+>**Code** [📄 BoJ 2800번]
+
+## 13. 탑
+>**Code** [📄 BoJ 2493번]
+
+## 14. 후위 표기식
+>**Code** [📄 BoJ 1918번]
