@@ -2,7 +2,7 @@
 
 ❈  2021년 하반기 취업을 목표로 하는 스터디입니다.  ❈ 
 *  일시/장소
-	* 매주 월요일 14:00 ~ 17:00 / 스터디카페(수원영통or망포)
+	* 매주 월요일 13:30 ~ 16:30 / 스터디카페(수원영통or망포)
 	* 매주 목요일 14:00 ~ 17:00 / 스터디카페(수원영통or망포)
 
 ## ✍ 스터디 주제
@@ -14,7 +14,8 @@
 
 |회차|기간|코딩테스트 문제|CS공부 범위|
 | :--: | :---------: | :-----------------: | :------: |
-| 01 | 2021.05.10 ~ 2021.5.12 | [[자료구조] 00 ~ 05](https://github.com/tony9402/baekjoon/tree/main/data_structure) | [[운영체제] 프로세스와 스레드의 차이 / 멀티스레드](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/OS)
-| 02 | 2021.05.12 ~ 2021.5.16 | [[자료구조] 06 ~ 11](https://github.com/tony9402/baekjoon/tree/main/data_structure) | [[운영체제] Process & Thread](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md)
-| 03 | 2021.05.17 ~ 2021.5.19 | [[자료구조2] 00 ~ 04](https://github.com/tony9402/baekjoon/tree/main/data_structure2) | [[운영체제] Scheduling ](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md#scheduling-%EB%8B%B5%EB%B3%80)
-| 04 | 2021.05.20 ~ 2021.5.31 | [[수학] 00 ~ 13](https://github.com/tony9402/baekjoon/tree/main/math) | [[운영체제] 전체 ](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md#scheduling-%EB%8B%B5%EB%B3%80)
+| 01 | 2021.05.10 ~ 2021.05.13 | [[자료구조] 00 ~ 05](https://github.com/tony9402/baekjoon/tree/main/data_structure) | [[운영체제] 프로세스와 스레드의 차이 / 멀티스레드](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/OS)
+| 02 | 2021.05.13 ~ 2021.05.17 | [[자료구조] 06 ~ 11](https://github.com/tony9402/baekjoon/tree/main/data_structure) | [[운영체제] Process & Thread](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md)
+| 03 | 2021.05.17 ~ 2021.05.20 | [[자료구조2] 06 ~ 11](https://github.com/tony9402/baekjoon/tree/main/data_structure2) | [[운영체제] Scheduling ](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md#scheduling-%EB%8B%B5%EB%B3%80)
+| 04 | 2021.05.20 ~ 2021.06.03 | [[수학] 00 ~ 15](https://github.com/tony9402/baekjoon/tree/main/data_structure2) | [[운영체제] ](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md#scheduling-%EB%8B%B5%EB%B3%80)
+| 05 | 2021.06.03 ~ 2021.06.07 | [[그리디] 00 ~ 04](https://github.com/tony9402/baekjoon/tree/main/data_structure2) | [[운영체제] 전범위](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/03.Operating_system)
