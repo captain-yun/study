@@ -19,3 +19,4 @@
 | 03 | 2021.05.17 ~ 2021.05.20 | [[자료구조2] 06 ~ 11](https://github.com/tony9402/baekjoon/tree/main/data_structure2) | [[운영체제] Scheduling ](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system/README.md#scheduling-%EB%8B%B5%EB%B3%80)
 | 04 | 2021.05.20 ~ 2021.06.03 | [[수학] 00 ~ 15](https://github.com/tony9402/baekjoon/tree/main/math) | [[운영체제] 전범위 ](https://github.com/SSAFY-CS-STUDY/Tech_interview/blob/main/03.Operating_system)
 | 05 | 2021.06.03 ~ 2021.06.07 | [[그리디] 00 ~ 04](https://github.com/tony9402/baekjoon/tree/main/greedy) | [[운영체제] 전범위](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/03.Operating_system)
+| 06 | 2021.06.07 ~ 2021.06.11 | [[투포인터] 00 ~ 04](https://github.com/tony9402/baekjoon/tree/main/two_pointer) | [[운영체제] 전범위](https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main/03.Operating_system)
